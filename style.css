@@ -1,0 +1,25 @@
+body {
+    background-color: darkgreen;
+}
+h1 {
+    color:darkorange;
+}
+h2 {
+    font-style:normal;
+    color:darkorange;
+}
+h3 {
+    color:darkorange;
+}
+h1 {
+    font-family: 'Inter', sans-serif;
+    font:20px 'Inter', sans-serif;
+}
+h2 {
+    font-family: 'Inter', sans-serif;
+    font:20px 'Inter', sans-serif;
+}
+h3 {
+    font-family: 'Inter', sans-serif;
+    font:20px 'Inter', sans-serif;
+}
